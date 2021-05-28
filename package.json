@@ -64,9 +64,9 @@
   "author": "Zack Anselm (https://github.com/zizzle6717)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rili-live/react-native-phone-input/issues"
+    "url": "https://github.com/andresgago/react-native-phone-input/issues"
   },
-  "homepage": "https://github.com/rili-live/react-native-phone-input",
+  "homepage": "https://github.com/andresgago/react-native-phone-input",
   "types": "./typings/index.d.ts",
   "files": [
     "dist/"
